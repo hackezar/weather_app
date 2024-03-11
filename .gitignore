@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# build
+dist
+bundle-report.html
+
+# code editors
+.idea
+.vscode
+
+# misc
+.DS_Store
+eslint-output-config*.json
+stylelint-output-config*.json

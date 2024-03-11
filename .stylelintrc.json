@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-standard-scss",
+    "stylelint-config-recess-order"
+  ],
+  "ignoreFiles": ["dist/**", "node_modules/**"],
+  "rules": {
+    "import-notation": "string"
+  }
+}
